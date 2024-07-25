@@ -1,15 +1,15 @@
 {
-  "name": "REPLACE_ME",
-  "description": "REPLACE_ME",
+  "name": "chiller_ls",
+  "description": "Crappy lsp server for personal use",
   "version": "1.0.0",
-  "author": "REPLACE_ME",
-  "license": "MIT",
+  "author": "ChillerDragon",
+  "license": "BSD-2-Clause",
   "engines": {
     "node": "*"
   },
   "repository": {
     "type": "git",
-    "url": "REPLACE_ME"
+    "url": "https://github.com/ChillerDragon/chiller_ls"
   },
   "dependencies": {
     "node-fetch": "^2.7.0",
