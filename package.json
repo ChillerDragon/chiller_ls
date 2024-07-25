@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "ChillerDragon",
   "license": "BSD-2-Clause",
+  "scripts": {
+    "build": "tsc --outDir dist src/server.ts"
+  },
   "engines": {
     "node": "*"
   },
